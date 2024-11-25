@@ -1,0 +1,106 @@
+{
+  "admins": [],
+  "customers": [],
+  "appointments": [],
+  "services": [
+    {
+      "id": "c34177de-0003-4385-aec8-f098a604d3d0",
+      "name": "젤네일 기본",
+      "duration": 90,
+      "price": 70000,
+      "category": "nail"
+    },
+    {
+      "id": "22c6ce8d-d5e3-487b-a62f-f90509ae54d9",
+      "name": "젤네일 아트",
+      "duration": 120,
+      "price": 90000,
+      "category": "nail"
+    },
+    {
+      "id": "b3f306df-850b-4e5f-bdb0-79c84f2f9d24",
+      "name": "젤 제거",
+      "duration": 30,
+      "price": 20000,
+      "category": "nail"
+    },
+    {
+      "id": "285389d3-b235-4475-be9f-8f2ee009e6cc",
+      "name": "패디큐어 기본",
+      "duration": 60,
+      "price": 60000,
+      "category": "nail"
+    },
+    {
+      "id": "e5e9dbcc-7718-46ca-8b2b-2a60d9047be3",
+      "name": "패디큐어 아트",
+      "duration": 90,
+      "price": 80000,
+      "category": "nail"
+    },
+    {
+      "id": "78262048-26a8-496b-97f1-b705accc8b28",
+      "name": "손톱 연장",
+      "duration": 120,
+      "price": 100000,
+      "category": "nail"
+    },
+    {
+      "id": "cc2fa764-12cd-4a3d-a597-360d98e8d44a",
+      "name": "큐티클 케어",
+      "duration": 30,
+      "price": 30000,
+      "category": "nail"
+    },
+    {
+      "id": "a807c795-7582-4e94-9165-a6eca58650c5",
+      "name": "속눈썹 풀세트",
+      "duration": 120,
+      "price": 80000,
+      "category": "lash"
+    },
+    {
+      "id": "31135692-8b64-4b16-b2ec-cc1e9b853212",
+      "name": "속눈썹 리터치",
+      "duration": 60,
+      "price": 40000,
+      "category": "lash"
+    },
+    {
+      "id": "e485cb2c-f282-47dd-a635-a68f658d9b75",
+      "name": "속눈썹 연장",
+      "duration": 90,
+      "price": 60000,
+      "category": "lash"
+    },
+    {
+      "id": "95fa6cf2-e14f-4360-9d85-1400ff4d4659",
+      "name": "속눈썹 제거",
+      "duration": 30,
+      "price": 20000,
+      "category": "lash"
+    },
+    {
+      "id": "f386984b-58cf-4720-99f9-12fe25ede47c",
+      "name": "하급 속눈썹",
+      "duration": 90,
+      "price": 50000,
+      "category": "lash"
+    },
+    {
+      "id": "bf73d064-7ff9-409b-a77f-623b265c81e1",
+      "name": "중급 속눈썹",
+      "duration": 120,
+      "price": 70000,
+      "category": "lash"
+    },
+    {
+      "id": "2de2ef1d-7032-4a7e-8688-61a64cc2b294",
+      "name": "고급 속눈썹",
+      "duration": 150,
+      "price": 90000,
+      "category": "lash"
+    }
+  ],
+  "membership_transactions": []
+}
